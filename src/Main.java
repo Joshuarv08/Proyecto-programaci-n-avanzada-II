@@ -8,5 +8,7 @@
  * @author Alumno
  */
 public class Main {
-    
+    public static void main(String[] args) {
+        //creamos un main
+    }
 }
